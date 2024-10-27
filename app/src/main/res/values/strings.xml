@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="piano_electr_nico">Piano electrónico</string>
+    <string name="do1">Do</string>
+    <string name="si">Si</string>
+    <string name="la">La</string>
+    <string name="sol">Sol</string>
+    <string name="fa">Fa</string>
+    <string name="mi">Mi</string>
+    <string name="re">Re</string>
+    <string name="do2">Do</string>
+    <string name="abrir_piano">Abrir piano</string>
+    <string name="conectar_bluetooth">Conectar Bluetooth</string>
+</resources>
